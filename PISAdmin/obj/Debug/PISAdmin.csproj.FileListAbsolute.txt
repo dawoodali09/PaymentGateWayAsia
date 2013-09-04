@@ -3,3 +3,7 @@ D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\PISAdmin\bin\PISAdmin.pdb
 D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\PISAdmin\obj\Debug\ResolveAssemblyReference.cache
 D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\PISAdmin\obj\Debug\PISAdmin.dll
 D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\PISAdmin\obj\Debug\PISAdmin.pdb
+C:\Users\Dawood\Desktop\PaymentGateWayAsia\PISAdmin\bin\PISAdmin.dll
+C:\Users\Dawood\Desktop\PaymentGateWayAsia\PISAdmin\bin\PISAdmin.pdb
+C:\Users\Dawood\Desktop\PaymentGateWayAsia\PISAdmin\obj\Debug\PISAdmin.dll
+C:\Users\Dawood\Desktop\PaymentGateWayAsia\PISAdmin\obj\Debug\PISAdmin.pdb

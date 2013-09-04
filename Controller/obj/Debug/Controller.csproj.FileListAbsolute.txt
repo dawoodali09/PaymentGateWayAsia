@@ -3,3 +3,7 @@ D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\Controller\bin\Debug\Control
 D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\Controller\obj\Debug\ResolveAssemblyReference.cache
 D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\Controller\obj\Debug\Controller.dll
 D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\Controller\obj\Debug\Controller.pdb
+C:\Users\Dawood\Desktop\PaymentGateWayAsia\Controller\bin\Debug\Controller.dll
+C:\Users\Dawood\Desktop\PaymentGateWayAsia\Controller\bin\Debug\Controller.pdb
+C:\Users\Dawood\Desktop\PaymentGateWayAsia\Controller\obj\Debug\Controller.dll
+C:\Users\Dawood\Desktop\PaymentGateWayAsia\Controller\obj\Debug\Controller.pdb

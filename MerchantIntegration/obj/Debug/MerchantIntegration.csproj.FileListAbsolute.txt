@@ -3,3 +3,7 @@ D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\MerchantIntegration\bin\Merc
 D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\MerchantIntegration\obj\Debug\ResolveAssemblyReference.cache
 D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\MerchantIntegration\obj\Debug\MerchantIntegration.dll
 D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\MerchantIntegration\obj\Debug\MerchantIntegration.pdb
+C:\Users\Dawood\Desktop\PaymentGateWayAsia\MerchantIntegration\bin\MerchantIntegration.dll
+C:\Users\Dawood\Desktop\PaymentGateWayAsia\MerchantIntegration\bin\MerchantIntegration.pdb
+C:\Users\Dawood\Desktop\PaymentGateWayAsia\MerchantIntegration\obj\Debug\MerchantIntegration.dll
+C:\Users\Dawood\Desktop\PaymentGateWayAsia\MerchantIntegration\obj\Debug\MerchantIntegration.pdb
