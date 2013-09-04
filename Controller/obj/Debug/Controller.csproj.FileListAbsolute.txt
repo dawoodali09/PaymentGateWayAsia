@@ -1,0 +1,5 @@
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\Controller\bin\Debug\Controller.dll
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\Controller\bin\Debug\Controller.pdb
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\Controller\obj\Debug\ResolveAssemblyReference.cache
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\Controller\obj\Debug\Controller.dll
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\Controller\obj\Debug\Controller.pdb

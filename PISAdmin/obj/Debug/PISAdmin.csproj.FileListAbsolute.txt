@@ -1,0 +1,5 @@
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\PISAdmin\bin\PISAdmin.dll
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\PISAdmin\bin\PISAdmin.pdb
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\PISAdmin\obj\Debug\ResolveAssemblyReference.cache
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\PISAdmin\obj\Debug\PISAdmin.dll
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\PISAdmin\obj\Debug\PISAdmin.pdb

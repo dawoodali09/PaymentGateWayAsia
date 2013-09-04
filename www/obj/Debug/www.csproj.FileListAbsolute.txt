@@ -3,3 +3,8 @@ D:\SUJANA\PaymentGateWayAsia\www\bin\www.pdb
 D:\SUJANA\PaymentGateWayAsia\www\obj\Debug\ResolveAssemblyReference.cache
 D:\SUJANA\PaymentGateWayAsia\www\obj\Debug\www.dll
 D:\SUJANA\PaymentGateWayAsia\www\obj\Debug\www.pdb
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\www\bin\www.dll
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\www\bin\www.pdb
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\www\obj\Debug\ResolveAssemblyReference.cache
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\www\obj\Debug\www.dll
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\www\obj\Debug\www.pdb

@@ -1,0 +1,5 @@
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\DAL\bin\Debug\DAL.dll
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\DAL\bin\Debug\DAL.pdb
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\DAL\obj\Debug\DAL.dll
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\DAL\obj\Debug\DAL.pdb

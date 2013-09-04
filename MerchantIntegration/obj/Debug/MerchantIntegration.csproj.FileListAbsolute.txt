@@ -1,0 +1,5 @@
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\MerchantIntegration\bin\MerchantIntegration.dll
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\MerchantIntegration\bin\MerchantIntegration.pdb
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\MerchantIntegration\obj\Debug\ResolveAssemblyReference.cache
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\MerchantIntegration\obj\Debug\MerchantIntegration.dll
+D:\SUJANA\PaymentGateWayAsia\PaymentGateWayAsia.git\MerchantIntegration\obj\Debug\MerchantIntegration.pdb
