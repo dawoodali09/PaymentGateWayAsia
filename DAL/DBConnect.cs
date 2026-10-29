@@ -284,7 +284,7 @@ namespace PaymentGateWayAsia.DAL
             {
               
                 case DBConnections.PIS:
-                    ConnStr = "Data Source=cibdbuser.db.11702767.hostedresource.com;Initial Catalog=cibdbuser;Persist Security Info=True;User ID=cibdbuser; pwd=CIBdb123!;";             
+                    ConnStr = "Data Source=YOUR_SERVER;Initial Catalog=YOUR_USER;Persist Security Info=True;User ID=YOUR_USER; pwd=YOUR_PASSWORD;";             
                    break;               
                 default:
                     break;
